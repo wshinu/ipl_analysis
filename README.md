@@ -5,4 +5,4 @@ THe Questions I am trying to solve are-
 Which team has won the most trophies
 which is best batsman and the best bowler ever and who won most man of the match awards
 How much winning the toss effects
-what is better to have a strong batting or bowling.
+what is better to have a strong batting or bowling. 
